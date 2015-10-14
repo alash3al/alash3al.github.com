@@ -1,2 +1,2 @@
-# alash3al.github.io
+# alash3al.github.com
 just a rather my simple website
